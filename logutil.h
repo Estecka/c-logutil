@@ -6,7 +6,7 @@
 /*   By: abaur <abaur@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/11/29 14:45:13 by abaur             #+#    #+#             */
-/*   Updated: 2019/12/03 16:28:07 by abaur            ###   ########.fr       */
+/*   Updated: 2020/01/03 13:47:19 by abaur            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 
+#define CLEAR	 0
 #define RED     31
 #define GREEN   32
 #define YELLOW  33
